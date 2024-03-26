@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class  Ejer3 {
-
+ 
     public static void executar() {
        
         Programa.imprimirTitulo("EXERCICIO 03");
