@@ -22,6 +22,6 @@ public class Ejer10 {
             }
         }
 
-        scanner.close();
+        scanner.close(); 
     }
 }
