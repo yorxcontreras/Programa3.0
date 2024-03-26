@@ -4,8 +4,8 @@ public class Ejer24 {
 
     public static void executar() {
        
-        Programa.imprimirTitulo("EXERCICIO 24");
-
+        Programa.imprimirTitulo("EXERCICIO 24"); 
+ 
 
         Scanner scanner = new Scanner(System.in);
 
