@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejer4 {
+public class Ejer4 { 
 
     public static void executar() {
        
