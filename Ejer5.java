@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ejer5 {
 
-    public static void executar() {
+    public static void executar() { 
        
         Programa.imprimirTitulo("EXERCICIO 05");
 
