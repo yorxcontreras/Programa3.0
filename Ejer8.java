@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ejer8 {
 
     public static void executar() {
-       
+        
         Programa.imprimirTitulo("EXERCICIO 08");
 
         Scanner scanner = new Scanner(System.in);
