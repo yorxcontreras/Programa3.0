@@ -32,7 +32,7 @@ public class Ejer26 {
         scanner.close();
     }
 
-    public static int determinarCategoriaSeguro(int idade, String grupoRisco) {
+    public static int determinarCategoriaSeguro(int idade, String grupoRisco) { 
         if (idade >= 17 && idade <= 20) {
             switch (grupoRisco) {
                 case "baixo":
